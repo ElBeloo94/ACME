@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_main.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_calendar.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_sign_in.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_google_maps.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_google_maps.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/calendar.xml",
+        "source": "com.example.acme.app-main-43:/layout/calendar.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_insert_service.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_insert_service.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_work_ticket.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_work_ticket.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/fragment_overview.xml",
+        "source": "com.example.acme.app-main-43:/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/item_service.xml",
+        "source": "com.example.acme.app-main-43:/layout/item_service.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_maps.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeReleaseResources-41:/layout/activity_update_service.xml",
+        "source": "com.example.acme.app-main-43:/layout/activity_update_service.xml"
+    }
+]

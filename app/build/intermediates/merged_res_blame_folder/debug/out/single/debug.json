@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-xxxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-xxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_item_service.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_bg.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_bg.xml"
+    },
+    {
+        "merged": "com.example.acme.app-merged_res-42:/drawable_ic_baseline_done_24.xml.flat",
+        "source": "com.example.acme.app-main-44:/drawable/ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-ldpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-ldpi\\ic_profile.png"
+    },
+    {
+        "merged": "com.example.acme.app-merged_res-42:/layout_calendar.xml.flat",
+        "source": "com.example.acme.app-main-44:/layout/calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_insert_service.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_insert_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_menu.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_menu.xml"
+    },
+    {
+        "merged": "com.example.acme.app-merged_res-42:/layout_activity_update_service.xml.flat",
+        "source": "com.example.acme.app-main-44:/layout/activity_update_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-xhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_work_ticket.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_work_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout-land_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout-land\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_sign_out.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_sign_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-anydpi-v24_ic_profile.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-anydpi-v24\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_outline_sticky_note_2_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_outline_sticky_note_2_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_add_location_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_add_location_24.xml"
+    },
+    {
+        "merged": "com.example.acme.app-merged_res-42:/layout_activity_insert_service.xml.flat",
+        "source": "com.example.acme.app-main-44:/layout/activity_insert_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_update_service.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_update_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-hdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_add.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\selector.xml"
+    },
+    {
+        "merged": "com.example.acme.app-merged_res-42:/layout_fragment_overview.xml.flat",
+        "source": "com.example.acme.app-main-44:/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_calendar.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_fragment_overview.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-mdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-pngs-37:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_near_me_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_near_me_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_principal.png.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\principal.png"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_sticky_note.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_sticky_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_field.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_sync.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_calendar.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_buttom.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_buttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_enhanced_encryption_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_enhanced_encryption_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\layout_activity_google_maps.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_google_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.acme.app-merged_res-42:/drawable_ic_baseline_delete_outline_24.xml.flat",
+        "source": "com.example.acme.app-main-44:/drawable/ic_baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-merged_res-42:\\drawable_ic_baseline_sticky_note_2_24.xml.flat",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\drawable\\ic_baseline_sticky_note_2_24.xml"
+    }
+]

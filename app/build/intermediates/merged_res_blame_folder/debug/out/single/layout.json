@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_work_ticket.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_work_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_calendar.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeDebugResources-41:/layout/calendar.xml",
+        "source": "com.example.acme.app-main-44:/layout/calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_insert_service.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_insert_service.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeDebugResources-41:/layout/activity_insert_service.xml",
+        "source": "com.example.acme.app-main-44:/layout/activity_insert_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeDebugResources-41:/layout/fragment_overview.xml",
+        "source": "com.example.acme.app-main-44:/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_google_maps.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_google_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\item_service.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\fragment_overview.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\calendar.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\calendar.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeDebugResources-41:/layout/activity_update_service.xml",
+        "source": "com.example.acme.app-main-44:/layout/activity_update_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-mergeDebugResources-41:\\layout\\activity_update_service.xml",
+        "source": "C:\\Users\\Abelito\\.gradle\\daemon\\7.3.3\\com.example.acme.app-main-44:\\layout\\activity_update_service.xml"
+    }
+]

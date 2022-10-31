@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MainActivity">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/bottom_toolbar_guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.1"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:elevation="5dp"
+        app:layout_constraintBottom_toBottomOf="@id/bottom_toolbar_guideline"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/top_toolbar_guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.2" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/mid_toolbar_guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.6" />
+
+
+        <ImageView
+            android:id="@+id/calendar_image"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_baseline_calendar"
+            app:layout_constraintBottom_toTopOf="@id/mid_toolbar_guideline"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintEnd_toEndOf="@id/div1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/top_toolbar_guideline"
+            />
+
+
+        <TextView
+            android:id="@+id/calendar_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Calendar"
+            android:textColor="@color/principal"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/div1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/mid_toolbar_guideline" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/div1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.18" />
+
+        <ImageView
+            android:id="@+id/sync_image"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_baseline_sync"
+            app:layout_constraintBottom_toTopOf="@id/mid_toolbar_guideline"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintEnd_toEndOf="@id/div2"
+            app:layout_constraintStart_toStartOf="@id/div1"
+            app:layout_constraintTop_toTopOf="@id/top_toolbar_guideline" />
+
+        <TextView
+            android:id="@+id/sync_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Sync"
+            android:textColor="@color/principal"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/div2"
+            app:layout_constraintStart_toStartOf="@id/div1"
+            app:layout_constraintTop_toBottomOf="@id/sync_image" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/div2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.32" />
+
+        <TextView
+            android:id="@+id/header_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Dashboard"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/div3"
+            app:layout_constraintStart_toStartOf="@id/div2"
+            app:layout_constraintTop_toBottomOf="@id/top_toolbar_guideline" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/div3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.65" />
+
+        <ImageView
+            android:id="@+id/new_ticket"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_baseline_add"
+            app:layout_constraintBottom_toBottomOf="@id/mid_toolbar_guideline"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintEnd_toEndOf="@id/div4"
+            app:layout_constraintStart_toStartOf="@id/div3"
+            app:layout_constraintTop_toTopOf="@id/top_toolbar_guideline" />
+
+        <TextView
+            android:id="@+id/new_ticket_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:singleLine="true"
+            android:text="New Ticket"
+            android:textAlignment="center"
+            android:textColor="@color/principal"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@id/div4"
+            app:layout_constraintStart_toStartOf="@id/div3"
+            app:layout_constraintTop_toBottomOf="@id/mid_toolbar_guideline" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/div4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.83" />
+
+        <ImageView
+            android:id="@+id/menu_image"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_baseline_menu"
+            app:layout_constraintBottom_toTopOf="@+id/mid_toolbar_guideline"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/div4"
+            app:layout_constraintTop_toTopOf="@id/top_toolbar_guideline" />
+
+        <TextView
+            android:id="@+id/menu_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Menu"
+            android:textColor="@color/principal"
+            android:textAlignment="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/div4"
+            app:layout_constraintTop_toTopOf="@id/mid_toolbar_guideline" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/my_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+        tools:listitem="@layout/item_service" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.InsertServiceActivity">
+
+    <LinearLayout
+            android:id="@+id/mostrarDatos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/name"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_account_circle_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/name"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#546E7A" />
+
+            <EditText
+                android:id="@+id/userPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/phone_number"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_call_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/phone_number"
+                android:inputType="phone"
+                android:padding="16dp"
+                android:textColorHint="#546E7A" />
+
+            <EditText
+                android:id="@+id/street"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:background="@drawable/ic_field"
+                app:drawableStartCompat="@drawable/ic_baseline_add_location_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/street"
+                android:inputType="textMultiLine"
+                android:autofillHints="@string/street"
+                android:padding="16dp"
+                android:textColor="#546E7A" />
+            <EditText
+                android:id="@+id/city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:background="@drawable/ic_field"
+                app:drawableStartCompat="@drawable/ic_baseline_add_location_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/city"
+                android:inputType="textMultiLine"
+                android:autofillHints="@string/city"
+                android:padding="16dp"
+                android:textColor="#546E7A" />
+            <EditText
+                android:id="@+id/country"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:background="@drawable/ic_field"
+                app:drawableStartCompat="@drawable/ic_baseline_add_location_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/country"
+                android:inputType="textMultiLine"
+                android:autofillHints="@string/country"
+                android:padding="16dp"
+                android:textColor="#546E7A" />
+            <EditText
+                android:id="@+id/postalCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:background="@drawable/ic_field"
+                app:drawableStartCompat="@drawable/ic_baseline_add_location_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/postal_code"
+                android:inputType="textMultiLine"
+                android:autofillHints="@string/postal_code"
+                android:padding="16dp"
+                android:textColor="#546E7A" />
+
+            <EditText
+                android:id="@+id/fechaInsertar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Date"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_calendar"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/date"
+                android:inputType="none"
+                android:padding="16dp"
+                tools:ignore="TextFields" />
+
+
+            <EditText
+                android:id="@+id/dispatchNote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/dispatch_note"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/dispatch_note"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#546E7A"
+                tools:ignore="TextFields" />
+
+            <EditText
+                android:id="@+id/type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Services Type"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/services_type"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                android:textColorHint="#78909C"
+                tools:ignore="TextFields" />
+
+            <EditText
+                android:id="@+id/dept"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Department"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/department"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                android:textColorHint="#78909C"
+                tools:ignore="TextFields" />
+
+            <EditText
+                android:id="@+id/reasonCall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/reason_for_call"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/reason_for_call"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#78909C"
+                tools:ignore="TextFields" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/insertarService"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="32dp"
+                android:background="@color/principal"
+                android:drawableStart="@drawable/ic_baseline_done_24"
+                android:paddingLeft="64dp"
+                android:paddingRight="64dp"
+                android:text="@string/insert_service"
+                android:textColor="#5D4037"
+                tools:ignore="DuplicateSpeakableTextCheck" />
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.acme.app-mergeDebugResources-41:/layout-land/activity_main.xml",
+        "source": "com.example.acme.app-main-44:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.example.acme.app-mergeDebugResources-41:/layout-land/activity_sign_in.xml",
+        "source": "com.example.acme.app-main-44:/layout-land/activity_sign_in.xml"
+    }
+]

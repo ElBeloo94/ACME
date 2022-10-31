@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.UpdateServiceActivity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <EditText
+                android:id="@+id/nameUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/name"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_account_circle_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/name"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#2E7D32" />
+
+            <EditText
+                android:id="@+id/userPhoneUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/phone_number"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_call_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/phone_number"
+                android:inputType="phone"
+                android:padding="16dp"
+                android:textColorHint="#546E7A" />
+
+            <EditText
+                android:id="@+id/adressUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Address"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_add_location_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/address"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#546E7A" />
+
+            <EditText
+                android:id="@+id/fechaUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Date"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_calendar"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/date"
+                android:inputType="none"
+                android:padding="16dp"
+                tools:ignore="TextFields" />
+
+
+            <EditText
+                android:id="@+id/dispatchNoteUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/dispatch_note"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note_2_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/dispatch_note"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#546E7A"
+                tools:ignore="TextFields" />
+
+            <EditText
+                android:id="@+id/typeUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Services Type"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note_2_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/services_type"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                android:textColorHint="#78909C"
+                tools:ignore="TextFields" />
+
+            <EditText
+                android:id="@+id/deptUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="Department"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note_2_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/department"
+                android:inputType="textPersonName"
+                android:padding="16dp"
+                android:textColorHint="#546E7A"
+                tools:ignore="TextFields" />
+
+            <EditText
+                android:id="@+id/reasonCallUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="24dp"
+                android:autofillHints="@string/reason_for_call"
+                android:background="@drawable/ic_field"
+                android:drawableStart="@drawable/ic_baseline_sticky_note_2_24"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:hint="@string/reason_for_call"
+                android:inputType="textMultiLine"
+                android:padding="16dp"
+                android:textColorHint="#78909C"
+                tools:ignore="TextFields" />
+
+            <LinearLayout
+                android:layout_width="wrap_content "
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="horizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/update"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@color/principal"
+                    android:paddingLeft="64dp"
+                    android:paddingRight="64dp"
+                    android:text="update"
+                    android:textColor="#4E342E"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:ignore="DuplicateSpeakableTextCheck" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/deleteUpdate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@color/principal"
+                    android:paddingLeft="64dp"
+                    android:paddingRight="64dp"
+                    android:text="delete"
+                    android:textColor="#4E342E"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:ignore="DuplicateSpeakableTextCheck" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
